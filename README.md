@@ -1,12 +1,16 @@
 Resources ordered by topic
 
+# Super resolution
+- Fast Super-Resolution CNN - FSRCNN https://github.com/Lornatang/FSRCNN-PyTorch
+- Multi-Scale Residual Network - MSRN https://github.com/MIVRC/MSRN-PyTorch
+- Enhanced Super Resolution GAN - ESRGAN https://github.com/xinntao/ESRGAN
+- Local Implicit Image Function - LIIF https://yinboc.github.io/liif/
+
 # Classification
 
 # Segmentation
 
 # Image registration
-
-# Super resolution
 
 # Datasets
 
