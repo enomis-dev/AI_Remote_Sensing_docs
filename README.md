@@ -1,16 +1,21 @@
 Resources ordered by topic
 
-# Super resolution
-- Fast Super-Resolution CNN - FSRCNN https://github.com/Lornatang/FSRCNN-PyTorch
-- Multi-Scale Residual Network - MSRN https://github.com/MIVRC/MSRN-PyTorch
-- Enhanced Super Resolution GAN - ESRGAN https://github.com/xinntao/ESRGAN
-- Local Implicit Image Function - LIIF https://yinboc.github.io/liif/
-
 # Classification
+- TorchGeo, A PyTorch domain library for geospatial data, offering datasets, samplers, transforms, and pre-trained models tailored for remote sensing tasks. https://github.com/microsoft/torchgeo
+- DeepSat, A deep learning framework designed for satellite image classification, utilizing convolutional neural networks to achieve high accuracy in land cover classification. https://github.com/mwang87/DeepSAT
+- RSMamba, Remote Sensing Image Classification with State Space Model https://github.com/KyanChen/RSMamba
+- Land Cover Classification of Satellite Images, A deep learning (neural network) land cover classification project using RGB satellite images (remote sensing) across 10 classes. https://github.com/aokdata/Land_Cover_Classification
 
 # Segmentation
 
 # Image registration
+
+# Super resolution
+The following list is not specifically applied to remote sensing images but could be applied to them.
+- Fast Super-Resolution CNN - FSRCNN https://github.com/Lornatang/FSRCNN-PyTorch
+- Multi-Scale Residual Network - MSRN https://github.com/MIVRC/MSRN-PyTorch
+- Enhanced Super Resolution GAN - ESRGAN https://github.com/xinntao/ESRGAN
+- Local Implicit Image Function - LIIF https://yinboc.github.io/liif/
 
 # Datasets
 
