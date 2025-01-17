@@ -23,6 +23,8 @@ The following list is not specifically applied to remote sensing images but coul
 - BigEarthNet: Multi-label dataset with Sentinel-2 imagery. https://paperswithcode.com/dataset/bigearthnet
 - EuroSAT: RGB and multi-band images for land use classification. https://github.com/phelber/EuroSAT
 - UC Merced Land Use Dataset: High-resolution aerial imagery. https://huggingface.co/datasets/blanchon/UC_Merced
+- Land Use and Land cover: https://www.usgs.gov/data/chesapeake-bay-land-use-and-land-cover-lulc-database-2022-edition
+The database contains one-meter 13-class Land Cover (LC) and 54-class Land Use/Land Cover (LULC) for all counties within or adjacent to the Chesapeake Bay
 
 ## Specific Domains
 
