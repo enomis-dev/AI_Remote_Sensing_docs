@@ -37,5 +37,9 @@ The database contains one-meter 13-class Land Cover (LC) and 54-class Land Use/L
 - NASA Earthdata: A wide range of Earth observation data. https://www.earthdata.nasa.gov/ 
 - Copernicus Open Access Hub: Free Sentinel-1/2 data. https://scihub.copernicus.eu/
 - Google Earth Engine: Large-scale geospatial data analysis. https://earthengine.google.com/
+- NOAA (National Oceanic and Atmospheric Administration) - DIGITAL COAST https://coast.noaa.gov/dataviewer/#/imagery/search/
+  high resolution mapping of US territory
+- USGS (United States Geological Survey) - https://earthexplorer.usgs.gov/
+  provide access to many satellite and drone datasets
 
 
