@@ -16,6 +16,9 @@ The following list is not specifically applied to remote sensing images but coul
 - Multi-Scale Residual Network - MSRN https://github.com/MIVRC/MSRN-PyTorch
 - Enhanced Super Resolution GAN - ESRGAN https://github.com/xinntao/ESRGAN
 - Local Implicit Image Function - LIIF https://yinboc.github.io/liif/
+- DiffusionSat: https://github.com/samar-khanna/DiffusionSat
+- DiffIR: https://github.com/Zj-BinXia/DiffIR
+- SwinIR: https://github.com/JingyunLiang/SwinIR
 
 # Datasets
 
