@@ -19,6 +19,7 @@ The following list is not specifically applied to remote sensing images but coul
 - DiffusionSat: https://github.com/samar-khanna/DiffusionSat
 - DiffIR: https://github.com/Zj-BinXia/DiffIR
 - SwinIR: https://github.com/JingyunLiang/SwinIR
+- DiffusionSat https://www.samarkhanna.com/DiffusionSat/
 
 # Datasets
 
